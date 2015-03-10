@@ -1,0 +1,11 @@
+{
+  "name": "todomvc-socket_drawer",
+  "version": "0.0.0",
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "todomvc-common": "~0.3.0",
+    "requirejs": "~2.1.6",
+    "backbone.marionette": "~2.3.2",
+    "backbone.localStorage": "~1.1.16"
+  }
+}
